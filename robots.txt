@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://satercea.github.io/sitemap.html.gz
+Sitemap: https://satercea.github.io/app/sitemap.html.gz
+Sitemap: https://satercea.github.io/assets/sitemap.html.gz
+Sitemap: https://satercea.github.io/css/sitemap.html.gz
+Sitemap: https://satercea.github.io/data/sitemap.html.gz
+Sitemap: https://satercea.github.io/includes/sitemap.html.gz
+Sitemap: https://satercea.github.io/item/sitemap.html.gz
+Sitemap: https://satercea.github.io/src/sitemap.html.gz
